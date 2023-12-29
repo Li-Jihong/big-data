@@ -3,4 +3,5 @@
 
 ![hadoop](https://github.com/Li-Jihong/big-data/assets/92769434/27d650fe-f199-4c36-8deb-6a766cc489a7)
 ![spark](https://github.com/Li-Jihong/big-data/assets/92769434/91adbb5d-4c4b-4030-b732-1f7f08e64c80)
-![image-20231126194715858](https://ljh-tuchuang-1311681554.cos.ap-nanjing.myqcloud.com/img/image-20231126194715858.png)
+
+如果想要该项目的文件，请联系我：2182726049@qq.com并注明来意
